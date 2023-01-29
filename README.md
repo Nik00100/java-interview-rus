@@ -3,7 +3,6 @@
 
 # Вопросы для собеседования на Java Developer
 
-
 + [ООП](#ООП) ![icon][done]
 + [JVM](#jvm) ![icon][done]
 + [Java Core](#java-core) ![icon][done]
